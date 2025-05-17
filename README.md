@@ -18,7 +18,8 @@ A Python-based implementation of **Conway's Game of Life** featuring an interact
 
 ## 📷 Preview
 
-*(Add a screenshot of your game window here for better visualization)*
+![image](https://github.com/user-attachments/assets/99d78152-72ba-43e9-b720-5895b52fd9cf)
+
 
 ---
 
