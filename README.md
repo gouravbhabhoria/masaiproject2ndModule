@@ -47,5 +47,4 @@ This project simulates and displays the evolution visually and verifies patterns
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/your-username/game_of_life.git
-   cd game_of_life
 
